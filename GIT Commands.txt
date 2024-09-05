@@ -1,0 +1,13 @@
+Git - - version
+Git status 
+Git configure 
+Git add (doing git add . adds all files in the folder)
+Git Commit -m “(message here)”
+Git add <file>
+Git restore <file>
+Git cd /c/Users/chase/IT-GIT
+Ls (view files)
+Git log (shows commits) (-p at end can be used to show what changed to the files) (--stat at the end can show file size differences.)
+Git diff shows changes not yet staged
+Git mv oldname newname (to rename files)
+git rm <file> (to delete file)
